@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-26T09:28:28.570Z",
+ "updatedAt": "2026-08-26T09:28:57.544Z",
  "logos": {
   "black.ru": {
    "file": "logos/black.ru.png",
@@ -41820,6 +41820,91 @@
    "file": "logos/labor14.de.jpg",
    "source": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
    "bytes": 15293
+  },
+  "AELatinAmerica.us": {
+   "file": "logos/AELatinAmerica.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+   "bytes": 14486
+  },
+  "AE.us": {
+   "file": "logos/AE.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+   "bytes": 14486
+  },
+  "ABCNewsLive.us": {
+   "file": "logos/ABCNewsLive.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png",
+   "bytes": 12740
+  },
+  "ATV.pe": {
+   "file": "logos/ATV.pe.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png",
+   "bytes": 51776
+  },
+  "CNBCArabiya.ae": {
+   "file": "logos/CNBCArabiya.ae.svg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/CNBC_Arabia_2025.svg",
+   "bytes": 5186
+  },
+  "CanalIPe.pe": {
+   "file": "logos/CanalIPe.pe.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png",
+   "bytes": 106294
+  },
+  "FX.us": {
+   "file": "logos/FX.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+   "bytes": 10196
+  },
+  "KSNV31.us": {
+   "file": "logos/KSNV31.us.svg",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/KSNV_logo.svg",
+   "bytes": 16500
+  },
+  "LRTLituanica.lt": {
+   "file": "logos/LRTLituanica.lt.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/960px-LRT_Lituanica_Logo_2022.svg.png",
+   "bytes": 12162
+  },
+  "News12NewJersey.us": {
+   "file": "logos/News12NewJersey.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+   "bytes": 77886
+  },
+  "PromarTV.ve": {
+   "file": "logos/PromarTV.ve.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png",
+   "bytes": 34334
+  },
+  "SelaparangTV.id": {
+   "file": "logos/SelaparangTV.id.png",
+   "source": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
+   "bytes": 5168
+  },
+  "StarMovies.pt": {
+   "file": "logos/StarMovies.pt.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",
+   "bytes": 46188
+  },
+  "TVPeruNoticias.pe": {
+   "file": "logos/TVPeruNoticias.pe.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
+   "bytes": 28096
+  },
+  "TehranTV.ir": {
+   "file": "logos/TehranTV.ir.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png",
+   "bytes": 26117
+  },
+  "TelepaceTrento.it": {
+   "file": "logos/TelepaceTrento.it.png",
+   "source": "https://tvtvtv.ru/icons/telepace_trento.png",
+   "bytes": 81656
+  },
+  "WBTSCD151.us": {
+   "file": "logos/WBTSCD151.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/960px-WBTS-LD_NBC_10_Boston_logo.png",
+   "bytes": 74017
   }
  },
  "flags": {
