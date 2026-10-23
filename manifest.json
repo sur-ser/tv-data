@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T16:19:43.880Z",
+ "updatedAt": "2026-10-23T16:40:38.210Z",
  "logos": {
   "black.ru": {
    "file": "logos/black.ru.png",
@@ -1110,11 +1110,6 @@
    "file": "logos/SochiLive.ru.png",
    "source": "https://www.cableman.ru/sites/default/files/sochi_live.png",
    "bytes": 19528
-  },
-  "SolovyovLive.ru": {
-   "file": "logos/SolovyovLive.ru.png",
-   "source": "https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png",
-   "bytes": 24633
   },
   "Soyuz.ru": {
    "file": "logos/Soyuz.ru.png",
@@ -2840,11 +2835,6 @@
    "file": "logos/AmmanTV.jo.png",
    "source": "https://i.imgur.com/5l7kw0b.png",
    "bytes": 88106
-  },
-  "AmozhgaryTV.iq": {
-   "file": "logos/AmozhgaryTV.iq.png",
-   "source": "https://i.imgur.com/sseqFsO.png",
-   "bytes": 5511
   },
   "AmouYazidTV.dz": {
    "file": "logos/AmouYazidTV.dz.png",
@@ -9871,11 +9861,6 @@
    "source": "https://i.imgur.com/uR0gScb.png",
    "bytes": 5996
   },
-  "HLAQDTV.kr": {
-   "file": "logos/HLAQDTV.kr.png",
-   "source": "https://i.imgur.com/FGsKCH3.png",
-   "bytes": 11008
-  },
   "HLCGDTV.kr": {
    "file": "logos/HLCGDTV.kr.png",
    "source": "https://i.imgur.com/ABdmZMc.png",
@@ -9970,11 +9955,6 @@
    "file": "logos/HainaVision.do.png",
    "source": "https://i.imgur.com/eoodUNJ.png",
    "bytes": 26282
-  },
-  "HalaLondon.uk": {
-   "file": "logos/HalaLondon.uk.png",
-   "source": "https://i.imgur.com/bM4VZDH.png",
-   "bytes": 27883
   },
   "HabibTV.ir": {
    "file": "logos/HabibTV.ir.png",
@@ -16061,11 +16041,6 @@
    "source": "https://i.imgur.com/YOlwudm.png",
    "bytes": 80877
   },
-  "RUTCTV.kr": {
-   "file": "logos/RUTCTV.kr.jpg",
-   "source": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
-   "bytes": 1920
-  },
   "RVTV.us": {
    "file": "logos/RVTV.us.png",
    "source": "https://i.imgur.com/pBBb0wx.png",
@@ -17325,11 +17300,6 @@
    "file": "logos/SanVitoTelevision.cr.png",
    "source": "https://i.imgur.com/Yd7JOxr.png",
    "bytes": 11811
-  },
-  "SanaPlus.in": {
-   "file": "logos/SanaPlus.in.png",
-   "source": "https://jiotvimages.cdn.jio.com/dare_images/images/sanaplus.png",
-   "bytes": 49893
   },
   "SanaTV.in": {
    "file": "logos/SanaTV.in.png",
@@ -19131,11 +19101,6 @@
    "source": "https://i.imgur.com/iuoXchN.png",
    "bytes": 78526
   },
-  "TVOstfold.no": {
-   "file": "logos/TVOstfold.no.png",
-   "source": "https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png",
-   "bytes": 25428
-  },
   "TVParanaTurismo.br": {
    "file": "logos/TVParanaTurismo.br.png",
    "source": "https://i.imgur.com/I6pKoBd.png",
@@ -19370,11 +19335,6 @@
    "file": "logos/TV5MondeEurope.fr.png",
    "source": "https://i.imgur.com/rPAbMSu.png",
    "bytes": 28377
-  },
-  "TV6.lt": {
-   "file": "logos/TV6.lt.png",
-   "source": "https://i.imgur.com/oC0jiFW.png",
-   "bytes": 27710
   },
   "TV7Colmar.fr": {
    "file": "logos/TV7Colmar.fr.png",
@@ -21406,11 +21366,6 @@
    "source": "https://jiotvimages.cdn.jio.com/dare_images/images/Vedic_TV.png",
    "bytes": 44199
   },
-  "VegaTeve.do": {
-   "file": "logos/VegaTeve.do.png",
-   "source": "https://i.imgur.com/jiyMOZx.png",
-   "bytes": 49476
-  },
   "VegavisionCanal18.do": {
    "file": "logos/VegavisionCanal18.do.png",
    "source": "https://i.imgur.com/352jxnd.png",
@@ -21790,11 +21745,6 @@
    "file": "logos/WTV.be.png",
    "source": "https://i.imgur.com/wvKe8mi.png",
    "bytes": 7292
-  },
-  "WTVCanal20.ni": {
-   "file": "logos/WTVCanal20.ni.png",
-   "source": "https://i.imgur.com/nb81xeU.png",
-   "bytes": 73751
   },
   "WOWKidz.in": {
    "file": "logos/WOWKidz.in.png",
@@ -24101,11 +24051,6 @@
    "source": "https://i.imgur.com/CheqyWH.png",
    "bytes": 33781
   },
-  "StarPlus.in": {
-   "file": "logos/StarPlus.in.png",
-   "source": "https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87c0874cd6942ff2c6414/images/LANDSCAPE_169/LANDSCAPE_169_BoI5qRl4N_STAR-PLUS-HD.png",
-   "bytes": 44845
-  },
   "Yurivision.pe": {
    "file": "logos/Yurivision.pe.jpg",
    "source": "https://i.imgur.com/VhWuaER.jpeg",
@@ -24410,11 +24355,6 @@
    "file": "logos/PanamericanaTV.pe.png",
    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/1280px-Logo_Panamericana_2020.png",
    "bytes": 88577
-  },
-  "RedeGlobo.br": {
-   "file": "logos/RedeGlobo.br.png",
-   "source": "https://i.imgur.com/O02TF2r.png",
-   "bytes": 78058
   },
   "Rossiya1Vainah.ru": {
    "file": "logos/Rossiya1Vainah.ru.png",
@@ -24740,11 +24680,6 @@
    "file": "logos/SohamTV.in.png",
    "source": "https://jiotvimages.cdn.jio.com/dare_images/images/Soham_TV.png",
    "bytes": 62809
-  },
-  "Sonic.in": {
-   "file": "logos/Sonic.in.png",
-   "source": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-   "bytes": 60125
   },
   "SonyAath.in": {
    "file": "logos/SonyAath.in.png",
@@ -25111,11 +25046,6 @@
    "source": "https://i.imgur.com/8c9Uqks.jpeg",
    "bytes": 32869
   },
-  "SonyBBCEarth.in": {
-   "file": "logos/SonyBBCEarth.in.png",
-   "source": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-   "bytes": 49033
-  },
   "SonyMax2.in": {
    "file": "logos/SonyMax2.in.png",
    "source": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png",
@@ -25425,11 +25355,6 @@
    "file": "logos/TVUFOP.br.png",
    "source": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
    "bytes": 17021
-  },
-  "TVS.do": {
-   "file": "logos/TVS.do.jpg",
-   "source": "https://i.imgur.com/a2YX1oj.jpg",
-   "bytes": 25492
   },
   "TeleMoldovaPlus.ro": {
    "file": "logos/TeleMoldovaPlus.ro.jpg",
@@ -25901,16 +25826,6 @@
    "source": "https://i.imgur.com/HiBrysh.png",
    "bytes": 16074
   },
-  "ETVBalBharat.in": {
-   "file": "logos/ETVBalBharat.in.png",
-   "source": "https://i.imgur.com/zsTxPV9.png",
-   "bytes": 141520
-  },
-  "HungamaTV.in": {
-   "file": "logos/HungamaTV.in.png",
-   "source": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
-   "bytes": 107786
-  },
   "KayhanTV.af": {
    "file": "logos/KayhanTV.af.png",
    "source": "https://i.imgur.com/2MDjU7x.png",
@@ -25930,11 +25845,6 @@
    "file": "logos/NandighoshaTV.in.png",
    "source": "https://i.imgur.com/cxneGRS.png",
    "bytes": 27321
-  },
-  "Nickelodeon.in": {
-   "file": "logos/Nickelodeon.in.png",
-   "source": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
-   "bytes": 25777
   },
   "PrimaNews.ro": {
    "file": "logos/PrimaNews.ro.png",
@@ -27171,11 +27081,6 @@
    "source": "https://i.imgur.com/48lkh57.png",
    "bytes": 1959
   },
-  "TVQuisqueya.us": {
-   "file": "logos/TVQuisqueya.us.png",
-   "source": "https://i.imgur.com/G7X4LQI.png",
-   "bytes": 22999
-  },
   "ToraCanal69.do": {
    "file": "logos/ToraCanal69.do.png",
    "source": "https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png",
@@ -27320,11 +27225,6 @@
    "file": "logos/ENTFamily.uk.png",
    "source": "https://static.elektamedia.com/ch/entf.png",
    "bytes": 188067
-  },
-  "HilandoFinoTV.do": {
-   "file": "logos/HilandoFinoTV.do.png",
-   "source": "https://i.imgur.com/E7ta6g8.png",
-   "bytes": 59268
   },
   "JNETV.pe": {
    "file": "logos/JNETV.pe.png",
@@ -27660,11 +27560,6 @@
    "file": "logos/WATCDT572.us.png",
    "source": "https://i.imgur.com/RAfuLul.png",
    "bytes": 11865
-  },
-  "YaltaTV.ru": {
-   "file": "logos/YaltaTV.ru.png",
-   "source": "https://img.cataloxy.ru/fl/97/e3/808131.gif",
-   "bytes": 6063
   },
   "ATGLive.se": {
    "file": "logos/ATGLive.se.png",
@@ -28401,11 +28296,6 @@
    "source": "https://i.imgur.com/yu3Bpbd.png",
    "bytes": 184569
   },
-  "AtacamaTV.cl": {
-   "file": "logos/AtacamaTV.cl.png",
-   "source": "https://i.postimg.cc/rwS082hL/atacama-tv.png",
-   "bytes": 32744
-  },
   "BoliviaTV.bo": {
    "file": "logos/BoliviaTV.bo.png",
    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png",
@@ -28535,11 +28425,6 @@
    "file": "logos/SaborTV.cl.png",
    "source": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
    "bytes": 38027
-  },
-  "SooriyanTV.ca": {
-   "file": "logos/SooriyanTV.ca.jpg",
-   "source": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
-   "bytes": 38228
   },
   "TV5Linares.cl": {
    "file": "logos/TV5Linares.cl.png",
@@ -28756,11 +28641,6 @@
    "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg",
    "bytes": 8760
   },
-  "NationalGeographic.in": {
-   "file": "logos/NationalGeographic.in.png",
-   "source": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png",
-   "bytes": 23426
-  },
   "NationalGeographicWild.in": {
    "file": "logos/NationalGeographicWild.in.png",
    "source": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
@@ -28806,11 +28686,6 @@
    "source": "https://i.imgur.com/HvFpGeH.png",
    "bytes": 36768
   },
-  "StarGold.in": {
-   "file": "logos/StarGold.in.png",
-   "source": "https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/6729e49b40f4155137e63cc5/images/LANDSCAPE_169/LANDSCAPE_169_iipOXjLCN_STAR-GOLD.png",
-   "bytes": 13056
-  },
   "StarMovies.in": {
    "file": "logos/StarMovies.in.png",
    "source": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
@@ -28820,11 +28695,6 @@
    "file": "logos/StarPlus.uk.png",
    "source": "https://i.imgur.com/xWxNy3L.png",
    "bytes": 245941
-  },
-  "SuperHungama.in": {
-   "file": "logos/SuperHungama.in.png",
-   "source": "https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png",
-   "bytes": 82101
   },
   "Superhitz.in": {
    "file": "logos/Superhitz.in.png",
@@ -29216,11 +29086,6 @@
    "source": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
    "bytes": 37367
   },
-  "RTVParkstad.nl": {
-   "file": "logos/RTVParkstad.nl.png",
-   "source": "https://i.imgur.com/zsTuF9y.png",
-   "bytes": 42904
-  },
   "RadioBrunoTV.it": {
    "file": "logos/RadioBrunoTV.it.png",
    "source": "https://i.imgur.com/WBcwDb7.png",
@@ -29245,11 +29110,6 @@
    "file": "logos/RoccoTV.cl.png",
    "source": "https://i.imgur.com/QFzCKRa.png",
    "bytes": 36349
-  },
-  "SOL2.nl": {
-   "file": "logos/SOL2.nl.png",
-   "source": "https://i.imgur.com/VEbhJRA.png",
-   "bytes": 41996
   },
   "StopklatkaTV.pl": {
    "file": "logos/StopklatkaTV.pl.png",
@@ -29436,11 +29296,6 @@
    "source": "https://i.imgur.com/1vqhmNz.png",
    "bytes": 178237
   },
-  "AntenaTV.mx": {
-   "file": "logos/AntenaTV.mx.png",
-   "source": "https://i.imgur.com/1sAgSME.png",
-   "bytes": 20082
-  },
   "AsianDrama.hk": {
    "file": "logos/AsianDrama.hk.png",
    "source": "https://i.imgur.com/wqtN7mH.png",
@@ -29450,11 +29305,6 @@
    "file": "logos/Badakhshon.tj.png",
    "source": "https://i.imgur.com/iK6AmkZ.png",
    "bytes": 8527
-  },
-  "BflixMovies.in": {
-   "file": "logos/BflixMovies.in.png",
-   "source": "https://i.imgur.com/5CtiQ45.png",
-   "bytes": 95990
   },
   "BugTV.by": {
    "file": "logos/BugTV.by.png",
@@ -29971,11 +29821,6 @@
    "source": "https://i.imgur.com/0B04qgM.png",
    "bytes": 20702
   },
-  "Millenium109FM.pe": {
-   "file": "logos/Millenium109FM.pe.png",
-   "source": "https://i.imgur.com/sfNL6Bv.png",
-   "bytes": 90871
-  },
   "ORFKids.at": {
    "file": "logos/ORFKids.at.png",
    "source": "https://i.imgur.com/Zxuah2b.png",
@@ -30015,11 +29860,6 @@
    "file": "logos/RockPop.ar.png",
    "source": "https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png",
    "bytes": 12515
-  },
-  "SIPSETVCUN81.mx": {
-   "file": "logos/SIPSETVCUN81.mx.png",
-   "source": "https://i.imgur.com/uiTgClU.png",
-   "bytes": 93889
   },
   "SenJeunesTV.sn": {
    "file": "logos/SenJeunesTV.sn.jpg",
@@ -30606,11 +30446,6 @@
    "source": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
    "bytes": 7303
   },
-  "TSN4.ca": {
-   "file": "logos/TSN4.ca.png",
-   "source": "https://i.imgur.com/qJyAWU8.png",
-   "bytes": 17002
-  },
   "TVPlusChincha.pe": {
    "file": "logos/TVPlusChincha.pe.jpg",
    "source": "https://i.imgur.com/bjQpQsu.jpeg",
@@ -30650,11 +30485,6 @@
    "file": "logos/VerbumTV.lk.png",
    "source": "https://i.imgur.com/YEKEaB4.png",
    "bytes": 175305
-  },
-  "Vision.pe": {
-   "file": "logos/Vision.pe.png",
-   "source": "https://i.imgur.com/gyuoNZk.png",
-   "bytes": 48662
   },
   "VosTV.bo": {
    "file": "logos/VosTV.bo.png",
@@ -30775,11 +30605,6 @@
    "file": "logos/Eurosport2.fr.png",
    "source": "https://i.imgur.com/f56dHgR.png",
    "bytes": 33694
-  },
-  "Evtele.cg": {
-   "file": "logos/Evtele.cg.png",
-   "source": "https://i.imgur.com/iBlXl2T.png",
-   "bytes": 32858
   },
   "Formula1AntenaPlay.ro": {
    "file": "logos/Formula1AntenaPlay.ro.png",
@@ -30961,16 +30786,6 @@
    "source": "https://i.imgur.com/lU02cWc.png",
    "bytes": 32032
   },
-  "CanThoTV3.vn": {
-   "file": "logos/CanThoTV3.vn.png",
-   "source": "https://i.ibb.co/d4G2PD9s/cantho3-2025.png",
-   "bytes": 53527
-  },
-  "Canal7TalangaVision.hn": {
-   "file": "logos/Canal7TalangaVision.hn.png",
-   "source": "https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png",
-   "bytes": 58789
-  },
   "CanalDiocesano.es": {
    "file": "logos/CanalDiocesano.es.png",
    "source": "https://i.imgur.com/uWhVKL3.png",
@@ -30980,16 +30795,6 @@
    "file": "logos/CityEdenKinoKomediya.ru.png",
    "source": "https://i.imgur.com/Aga2XVA.png",
    "bytes": 22176
-  },
-  "CityEdenTeleNovella.ru": {
-   "file": "logos/CityEdenTeleNovella.ru.png",
-   "source": "https://i.imgur.com/mT5liTh.png",
-   "bytes": 13246
-  },
-  "CityEdenTV.ru": {
-   "file": "logos/CityEdenTV.ru.png",
-   "source": "https://i.imgur.com/X9kACKi.png",
-   "bytes": 13208
   },
   "ColomeTV.do": {
    "file": "logos/ColomeTV.do.png",
@@ -31025,11 +30830,6 @@
    "file": "logos/LitusTV.ar.png",
    "source": "https://i.imgur.com/QIGSf4L.png",
    "bytes": 3461
-  },
-  "KhabarFast.in": {
-   "file": "logos/KhabarFast.in.png",
-   "source": "https://jiotvimages.cdn.jio.com/dare_images/images/Khabar_Fast.png",
-   "bytes": 39959
   },
   "MNTV.mz": {
    "file": "logos/MNTV.mz.png",
@@ -31100,11 +30900,6 @@
    "file": "logos/OromarTVPlus.ec.png",
    "source": "https://oromartv.com/images/OTV400.png",
    "bytes": 51365
-  },
-  "RadioUnoTacna.pe": {
-   "file": "logos/RadioUnoTacna.pe.png",
-   "source": "https://i.imgur.com/PswowQP.png",
-   "bytes": 161398
   },
   "RamaChannel.th": {
    "file": "logos/RamaChannel.th.png",
@@ -33786,11 +33581,6 @@
    "source": "https://i.imgur.com/rntSEDZ.png",
    "bytes": 5693
   },
-  "FicomChannel.id": {
-   "file": "logos/FicomChannel.id.png",
-   "source": "https://i.imgur.com/KMEf0Cc.png",
-   "bytes": 36204
-  },
   "GiaLaiTV.vn": {
    "file": "logos/GiaLaiTV.vn.png",
    "source": "https://i.imgur.com/oUSJX0X.png",
@@ -35111,11 +34901,6 @@
    "source": "https://i.imgur.com/N0TvAFz.png",
    "bytes": 127868
   },
-  "VCV.in": {
-   "file": "logos/VCV.in.png",
-   "source": "https://i.imgur.com/KbU36xI.png",
-   "bytes": 175150
-  },
   "VH1QueensofReality.us": {
    "file": "logos/VH1QueensofReality.us.png",
    "source": "https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png",
@@ -35266,11 +35051,6 @@
    "source": "https://i.imgur.com/zKWFgeQ.png",
    "bytes": 79161
   },
-  "AnzoateguiTV.ve": {
-   "file": "logos/AnzoateguiTV.ve.png",
-   "source": "https://i.imgur.com/SLqrEOz.png",
-   "bytes": 57209
-  },
   "AsiriTV.pe": {
    "file": "logos/AsiriTV.pe.png",
    "source": "https://i.imgur.com/7bGVFBa.png",
@@ -35401,11 +35181,6 @@
    "source": "https://i.imgur.com/uBC8e96.png",
    "bytes": 27376
   },
-  "HLCTDTV.kr": {
-   "file": "logos/HLCTDTV.kr.png",
-   "source": "https://i.imgur.com/LlYQR8m.png",
-   "bytes": 4106
-  },
   "HLN.us": {
    "file": "logos/HLN.us.webp",
    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/HLN_2023.webp/960px-HLN_2023.webp",
@@ -35485,11 +35260,6 @@
    "file": "logos/PLEXTV.cm.jpg",
    "source": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg",
    "bytes": 11965
-  },
-  "PanafricanMediaTV.cm": {
-   "file": "logos/PanafricanMediaTV.cm.png",
-   "source": "https://i.imgur.com/wneSSYM.png",
-   "bytes": 48135
   },
   "Polonia1.pl": {
    "file": "logos/Polonia1.pl.png",
@@ -35620,11 +35390,6 @@
    "file": "logos/Telesangil.co.png",
    "source": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png",
    "bytes": 75881
-  },
-  "TeleRegencyTV.ng": {
-   "file": "logos/TeleRegencyTV.ng.png",
-   "source": "https://teleregency.tv/logo-white.png",
-   "bytes": 215680
   },
   "UMCTV.co": {
    "file": "logos/UMCTV.co.png",
@@ -35796,11 +35561,6 @@
    "source": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
    "bytes": 33344
   },
-  "QTVGambia.gm": {
-   "file": "logos/QTVGambia.gm.png",
-   "source": "https://i.imgur.com/ZsTuADb.png",
-   "bytes": 60241
-  },
   "QubTV.ro": {
    "file": "logos/QubTV.ro.png",
    "source": "https://i.imgur.com/GvyF2Wh.png",
@@ -35921,11 +35681,6 @@
    "source": "https://i.imgur.com/dw6puHC.png",
    "bytes": 9098
   },
-  "ABCTeleshow.pe": {
-   "file": "logos/ABCTeleshow.pe.jpg",
-   "source": "https://i.imgur.com/cF7gJ2Q.jpeg",
-   "bytes": 29602
-  },
   "AlMaghribia.ma": {
    "file": "logos/AlMaghribia.ma.png",
    "source": "https://i.imgur.com/7GaahYh.png",
@@ -35980,11 +35735,6 @@
    "file": "logos/DavikaTV.id.png",
    "source": "https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png",
    "bytes": 65049
-  },
-  "ElNuevoDiarioTV.do": {
-   "file": "logos/ElNuevoDiarioTV.do.png",
-   "source": "https://i.imgur.com/yjuTl6N.png",
-   "bytes": 18513
   },
   "ElyTV.br": {
    "file": "logos/ElyTV.br.png",
@@ -36080,11 +35830,6 @@
    "file": "logos/Telenord8.do.png",
    "source": "https://i.imgur.com/1Ei0kB8.png",
    "bytes": 5024
-  },
-  "Teletur.do": {
-   "file": "logos/Teletur.do.png",
-   "source": "https://i.imgur.com/Ig4gR93.png",
-   "bytes": 4335
   },
   "TelevisiondelEste.do": {
    "file": "logos/TelevisiondelEste.do.png",
@@ -36391,11 +36136,6 @@
    "source": "https://i.imgur.com/cXajs8V.png",
    "bytes": 25725
   },
-  "MelodyFM.jo": {
-   "file": "logos/MelodyFM.jo.png",
-   "source": "https://i.imgur.com/J8omcNz.png",
-   "bytes": 98699
-  },
   "MiMiTV.uz": {
    "file": "logos/MiMiTV.uz.png",
    "source": "https://i.imgur.com/NmQglPa.png",
@@ -36621,11 +36361,6 @@
    "source": "https://i.imgur.com/VB88A5V.png",
    "bytes": 18615
   },
-  "SOUTV.br": {
-   "file": "logos/SOUTV.br.png",
-   "source": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",
-   "bytes": 5248
-  },
   "SPTV.us": {
    "file": "logos/SPTV.us.png",
    "source": "https://i.imgur.com/fl8I3cg.png",
@@ -36635,11 +36370,6 @@
    "file": "logos/SlagerTV.hu.png",
    "source": "https://i.imgur.com/qDNRgSQ.png",
    "bytes": 40165
-  },
-  "SiembraTV.ve": {
-   "file": "logos/SiembraTV.ve.png",
-   "source": "https://i.imgur.com/zRX91Xr.png",
-   "bytes": 9418
   },
   "SoloBailalo.cl": {
    "file": "logos/SoloBailalo.cl.png",
@@ -36896,11 +36626,6 @@
    "source": "https://i.imgur.com/QF5VUcy.png",
    "bytes": 5184
   },
-  "CajamarcaTV.pe": {
-   "file": "logos/CajamarcaTV.pe.png",
-   "source": "https://i.imgur.com/pC57NYv.png",
-   "bytes": 39026
-  },
   "Canal10.sv": {
    "file": "logos/Canal10.sv.png",
    "source": "https://i.imgur.com/y2ppMnY.png",
@@ -36956,11 +36681,6 @@
    "source": "https://i.imgur.com/Q3d7G04.png",
    "bytes": 21241
   },
-  "KandelaTV.ve": {
-   "file": "logos/KandelaTV.ve.jpg",
-   "source": "https://i.imgur.com/cCFxyIp.jpg",
-   "bytes": 60338
-  },
   "KassouaTV.bj": {
    "file": "logos/KassouaTV.bj.png",
    "source": "https://i.imgur.com/EfX3HNG.png",
@@ -37011,20 +36731,10 @@
    "source": "https://i.imgur.com/mzc1nJS.png",
    "bytes": 27951
   },
-  "NortenaTv.ve": {
-   "file": "logos/NortenaTv.ve.png",
-   "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
-   "bytes": 9595
-  },
   "OndaCadiz.es": {
    "file": "logos/OndaCadiz.es.png",
    "source": "https://i.imgur.com/sOBMnby.png",
    "bytes": 65419
-  },
-  "OviedoTV.py": {
-   "file": "logos/OviedoTV.py.png",
-   "source": "https://i.imgur.com/6OlfgSQ.png",
-   "bytes": 147504
   },
   "Pakapaka.ar": {
    "file": "logos/Pakapaka.ar.png",
@@ -37060,11 +36770,6 @@
    "file": "logos/RedAmericaTV.bo.png",
    "source": "https://i.imgur.com/qYNmeDe.png",
    "bytes": 30608
-  },
-  "RadioRomaniaAntenaSatelor.ro": {
-   "file": "logos/RadioRomaniaAntenaSatelor.ro.svg",
-   "source": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-   "bytes": 37755
   },
   "RadioRomaniaOlteniaCraiova.ro": {
    "file": "logos/RadioRomaniaOlteniaCraiova.ro.png",
@@ -37125,11 +36830,6 @@
    "file": "logos/TeleUV.mx.jpg",
    "source": "https://i.imgur.com/8MdUH69.jpeg",
    "bytes": 11975
-  },
-  "TeleCauquenes.cl": {
-   "file": "logos/TeleCauquenes.cl.png",
-   "source": "https://i.imgur.com/cNYDqhp.png",
-   "bytes": 20204
   },
   "Telecentro.ve": {
    "file": "logos/Telecentro.ve.png",
@@ -37391,11 +37091,6 @@
    "source": "https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png",
    "bytes": 6058
   },
-  "ProbashiTVNews.ca": {
-   "file": "logos/ProbashiTVNews.ca.png",
-   "source": "https://i.imgur.com/7oTsfQ4.png",
-   "bytes": 68906
-  },
   "PrimaTV.it": {
    "file": "logos/PrimaTV.it.png",
    "source": "https://i.imgur.com/HE9c8Sk.png",
@@ -37405,11 +37100,6 @@
    "file": "logos/PuntaCanaTV.do.png",
    "source": "https://i.imgur.com/KF7fLTx.png",
    "bytes": 57917
-  },
-  "RadioUC.cl": {
-   "file": "logos/RadioUC.cl.png",
-   "source": "https://cdn.m3u.cl/logo/1467_Radio_UC.png",
-   "bytes": 58406
   },
   "RealTime.it": {
    "file": "logos/RealTime.it.png",
@@ -37425,11 +37115,6 @@
    "file": "logos/SmartRadio.ro.png",
    "source": "https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png",
    "bytes": 6250
-  },
-  "SoonaTV.co": {
-   "file": "logos/SoonaTV.co.jpg",
-   "source": "https://i.imgur.com/Pk8zzTL.jpeg",
-   "bytes": 32777
   },
   "TVBrusque.br": {
    "file": "logos/TVBrusque.br.png",
@@ -37756,11 +37441,6 @@
    "source": "https://i.imgur.com/gsgXGEj.png",
    "bytes": 15733
   },
-  "TVMparati.ve": {
-   "file": "logos/TVMparati.ve.jpg",
-   "source": "https://intervenhosting.net/imagenes/tvmparati.jpg",
-   "bytes": 10211
-  },
   "TeleQuindio.co": {
    "file": "logos/TeleQuindio.co.png",
    "source": "https://i.imgur.com/bJWj5ja.png",
@@ -37856,11 +37536,6 @@
    "source": "https://i.imgur.com/ntK4D64.png",
    "bytes": 6844
   },
-  "AbejalesTV.ve": {
-   "file": "logos/AbejalesTV.ve.png",
-   "source": "https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800",
-   "bytes": 66147
-  },
   "BTNTV.rw": {
    "file": "logos/BTNTV.rw.png",
    "source": "https://i.imgur.com/WmaP8zP.png",
@@ -37926,11 +37601,6 @@
    "source": "https://www.fehervartv.hu/css/img/icon-1-2.png",
    "bytes": 4985
   },
-  "HLAJDTV.kr": {
-   "file": "logos/HLAJDTV.kr.png",
-   "source": "https://i.imgur.com/JM4rxGU.png",
-   "bytes": 5327
-  },
   "Hero.fi": {
    "file": "logos/Hero.fi.png",
    "source": "https://i.imgur.com/4t5JQLY.png",
@@ -37976,11 +37646,6 @@
    "source": "https://i.imgur.com/mptwwLs.png",
    "bytes": 2061
   },
-  "MGSTV.id": {
-   "file": "logos/MGSTV.id.png",
-   "source": "https://i.imgur.com/MYU7dsZ.png",
-   "bytes": 69257
-  },
   "MTVAva.fi": {
    "file": "logos/MTVAva.fi.png",
    "source": "https://i.imgur.com/WxNCiAk.png",
@@ -38006,20 +37671,10 @@
    "source": "https://i.imgur.com/6bdj2BV.jpg",
    "bytes": 85500
   },
-  "NaranjaTV.do": {
-   "file": "logos/NaranjaTV.do.png",
-   "source": "https://i.imgur.com/g7iFN3s.png",
-   "bytes": 22599
-  },
   "NationalGeographic.hu": {
    "file": "logos/NationalGeographic.hu.png",
    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
    "bytes": 19589
-  },
-  "NetmaxTV.gr": {
-   "file": "logos/NetmaxTV.gr.png",
-   "source": "https://i.imgur.com/dLvRD4k.png",
-   "bytes": 15806
   },
   "News12PlusNewYork.us": {
    "file": "logos/News12PlusNewYork.us.jpg",
@@ -38040,11 +37695,6 @@
    "file": "logos/Odeon24.it.png",
    "source": "https://i.imgur.com/Ho7SdXY.png",
    "bytes": 6687
-  },
-  "OliTV.cl": {
-   "file": "logos/OliTV.cl.jpg",
-   "source": "https://i.imgur.com/2emMRvf.jpeg",
-   "bytes": 48325
   },
   "OneTVESchoolCambodia.kh": {
    "file": "logos/OneTVESchoolCambodia.kh.png",
@@ -38071,11 +37721,6 @@
    "source": "https://i.imgur.com/0TqABCL.png",
    "bytes": 10908
   },
-  "PortuguesaTelevision.ve": {
-   "file": "logos/PortuguesaTelevision.ve.jpg",
-   "source": "https://intervenhosting.net/roku/portutv/portutv.jpg",
-   "bytes": 4576
-  },
   "RTCTelecalabria.it": {
    "file": "logos/RTCTelecalabria.it.png",
    "source": "https://i.imgur.com/NnFopuS.png",
@@ -38085,11 +37730,6 @@
    "file": "logos/RTEjr.ie.png",
    "source": "https://i.imgur.com/E3jxqu9.png",
    "bytes": 8415
-  },
-  "RTHKTV31.hk": {
-   "file": "logos/RTHKTV31.hk.png",
-   "source": "https://i.imgur.com/kf818kM.png",
-   "bytes": 43160
   },
   "RTV.ec": {
    "file": "logos/RTV.ec.png",
@@ -38110,11 +37750,6 @@
    "file": "logos/RialTV.cl.png",
    "source": "https://i.imgur.com/zcwQyPI.png",
    "bytes": 33536
-  },
-  "SCTV6.vn": {
-   "file": "logos/SCTV6.vn.png",
-   "source": "https://i.imgur.com/2oOVS42.png",
-   "bytes": 44806
   },
   "SenalPeruTV.pe": {
    "file": "logos/SenalPeruTV.pe.png",
@@ -38210,6 +37845,441 @@
    "file": "logos/Zingabad.in.png",
    "source": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png",
    "bytes": 162579
+  },
+  "15TV.mx": {
+   "file": "logos/15TV.mx.png",
+   "source": "https://i.imgur.com/EY0DlT0.png",
+   "bytes": 12133
+  },
+  "4DmasNoticiasTV.py": {
+   "file": "logos/4DmasNoticiasTV.py.png",
+   "source": "https://i.ibb.co/1fb5BtN/unnamed.png",
+   "bytes": 140128
+  },
+  "7XMusic.in": {
+   "file": "logos/7XMusic.in.png",
+   "source": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+   "bytes": 28804
+  },
+  "AagaazTimes.in": {
+   "file": "logos/AagaazTimes.in.png",
+   "source": "https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png",
+   "bytes": 29739
+  },
+  "AfrocultureTV.ci": {
+   "file": "logos/AfrocultureTV.ci.png",
+   "source": "https://i.imgur.com/bjaZ3kO.png",
+   "bytes": 32327
+  },
+  "AguacateTV.ve": {
+   "file": "logos/AguacateTV.ve.jpg",
+   "source": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+   "bytes": 110169
+  },
+  "AmritGurbani.in": {
+   "file": "logos/AmritGurbani.in.png",
+   "source": "https://papaji.freetvindia.com/media/Amritgurbani.png",
+   "bytes": 38884
+  },
+  "AntenaSeisTV.cr": {
+   "file": "logos/AntenaSeisTV.cr.png",
+   "source": "https://i.imgur.com/9Nh2mo9.png",
+   "bytes": 53375
+  },
+  "AlternaTV.ar": {
+   "file": "logos/AlternaTV.ar.png",
+   "source": "https://tv.alterna.ar/alternatv.png",
+   "bytes": 3499
+  },
+  "AshwaveegaNews24x7.in": {
+   "file": "logos/AshwaveegaNews24x7.in.png",
+   "source": "https://jiotvimages.cdn.jio.com/dare_images/images/Ashwaveega_News_24x7.png",
+   "bytes": 50176
+  },
+  "AnandpurLive.in": {
+   "file": "logos/AnandpurLive.in.png",
+   "source": "https://papaji.freetvindia.com/media/Anandpur_Live.png",
+   "bytes": 69995
+  },
+  "BalafonTV.cm": {
+   "file": "logos/BalafonTV.cm.png",
+   "source": "https://i.imgur.com/EqOzhYw.png",
+   "bytes": 3462
+  },
+  "Boing.it": {
+   "file": "logos/Boing.it.png",
+   "source": "https://i.imgur.com/rabKj9i.png",
+   "bytes": 48650
+  },
+  "BonaoTV.do": {
+   "file": "logos/BonaoTV.do.png",
+   "source": "https://i.imgur.com/en1vCZB.png",
+   "bytes": 34797
+  },
+  "BonceTV.cw": {
+   "file": "logos/BonceTV.cw.png",
+   "source": "https://i.imgur.com/7cVkllH.png",
+   "bytes": 26105
+  },
+  "AsianetMovies.in": {
+   "file": "logos/AsianetMovies.in.png",
+   "source": "https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87a7b74cd6942ff2c6412/images/LANDSCAPE_169/LANDSCAPE_169_XgImljARG_ASIANET-MOVIES.png",
+   "bytes": 45138
+  },
+  "CaliforniaMediosTV.mx": {
+   "file": "logos/CaliforniaMediosTV.mx.png",
+   "source": "https://i.imgur.com/IDvpRNI.png",
+   "bytes": 20728
+  },
+  "Canal17RTVD.do": {
+   "file": "logos/Canal17RTVD.do.png",
+   "source": "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
+   "bytes": 22730
+  },
+  "BhaktiDhara.in": {
+   "file": "logos/BhaktiDhara.in.png",
+   "source": "https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png",
+   "bytes": 100021
+  },
+  "CanalCalimaTV.co": {
+   "file": "logos/CanalCalimaTV.co.jpg",
+   "source": "https://i.imgur.com/6YxtyUR.jpeg",
+   "bytes": 38285
+  },
+  "CartoonNetwork.us": {
+   "file": "logos/CartoonNetwork.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+   "bytes": 19736
+  },
+  "ChhayaChitramTelugu.in": {
+   "file": "logos/ChhayaChitramTelugu.in.png",
+   "source": "https://papaji.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png",
+   "bytes": 39814
+  },
+  "ChintpurniLive.in": {
+   "file": "logos/ChintpurniLive.in.png",
+   "source": "https://papaji.freetvindia.com/media/Chintpurni_Live.png",
+   "bytes": 93634
+  },
+  "ComedyCentral.it": {
+   "file": "logos/ComedyCentral.it.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+   "bytes": 32089
+  },
+  "ESPN2LatinAmerica.us": {
+   "file": "logos/ESPN2LatinAmerica.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+   "bytes": 7668
+  },
+  "DukhnivaranPatialaLive.in": {
+   "file": "logos/DukhnivaranPatialaLive.in.png",
+   "source": "https://papaji.freetvindia.com/media/dukhniwaran.png",
+   "bytes": 69699
+  },
+  "EtnaEspressoChannel.it": {
+   "file": "logos/EtnaEspressoChannel.it.png",
+   "source": "https://i.imgur.com/lSI5QgV.png",
+   "bytes": 169695
+  },
+  "FX.us": {
+   "file": "logos/FX.us.png",
+   "source": "https://cdn1.edgedatg.com/aws/v2/fxnow/Config/video/9093579/138c80c6dc73af87744353ee32f2fd18/284x160-Q75_138c80c6dc73af87744353ee32f2fd18.png",
+   "bytes": 5295
+  },
+  "FoxSports2.us": {
+   "file": "logos/FoxSports2.us.png",
+   "source": "https://imgx.fubo.tv/station_logos/fs2_c.png",
+   "bytes": 11592
+  },
+  "GodStandsKidsClubTV.pk": {
+   "file": "logos/GodStandsKidsClubTV.pk.jpg",
+   "source": "https://i.imgur.com/FxDBbpz.jpeg",
+   "bytes": 112797
+  },
+  "GreatCommissionTV.ke": {
+   "file": "logos/GreatCommissionTV.ke.jpg",
+   "source": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Great%20Commission%20TV.jpeg",
+   "bytes": 194770
+  },
+  "GodStandsTV.pk": {
+   "file": "logos/GodStandsTV.pk.png",
+   "source": "https://i.imgur.com/EO6cYUI.png",
+   "bytes": 67162
+  },
+  "HBOHits.us": {
+   "file": "logos/HBOHits.us.png",
+   "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
+   "bytes": 14737
+  },
+  "ImaiTV.lk": {
+   "file": "logos/ImaiTV.lk.png",
+   "source": "https://i.imgur.com/9tODclu.png",
+   "bytes": 99705
+  },
+  "IsangoTV.rw": {
+   "file": "logos/IsangoTV.rw.png",
+   "source": "https://i.imgur.com/EfsHaMQ.png",
+   "bytes": 21281
+  },
+  "KanEducational.il": {
+   "file": "logos/KanEducational.il.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
+   "bytes": 6355
+  },
+  "IndiaTalkies.in": {
+   "file": "logos/IndiaTalkies.in.png",
+   "source": "https://papaji.freetvindia.com/media/FreeTV_India_Talkies.png",
+   "bytes": 21623
+  },
+  "LougaTV.sn": {
+   "file": "logos/LougaTV.sn.jpg",
+   "source": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+   "bytes": 6294
+  },
+  "Kabaddi24x7.in": {
+   "file": "logos/Kabaddi24x7.in.png",
+   "source": "https://papaji.freetvindia.com/media/kabaddi_24x7.png",
+   "bytes": 43164
+  },
+  "MaimonTVCanal3.do": {
+   "file": "logos/MaimonTVCanal3.do.png",
+   "source": "https://i.imgur.com/twldaaC.png",
+   "bytes": 19532
+  },
+  "MilanTV.it": {
+   "file": "logos/MilanTV.it.png",
+   "source": "https://i.imgur.com/gAMQfUw.png",
+   "bytes": 31093
+  },
+  "Ministerstvoidey.ru": {
+   "file": "logos/Ministerstvoidey.ru.png",
+   "source": "https://i.imgur.com/3P0uvHD.png",
+   "bytes": 24115
+  },
+  "MultivisionFederal.ar": {
+   "file": "logos/MultivisionFederal.ar.png",
+   "source": "https://i.imgur.com/jX0lqy3.png",
+   "bytes": 19773
+  },
+  "MoviePunjab.in": {
+   "file": "logos/MoviePunjab.in.png",
+   "source": "https://papaji.freetvindia.com/media/900_FreeTV_Movie_punjab.png",
+   "bytes": 48380
+  },
+  "News12Bronx.us": {
+   "file": "logos/News12Bronx.us.png",
+   "source": "https://i.imgur.com/d6xQiaf.png",
+   "bytes": 33027
+  },
+  "News12PlusHudsonValley.us": {
+   "file": "logos/News12PlusHudsonValley.us.jpg",
+   "source": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
+   "bytes": 43442
+  },
+  "Nickelodeon.uk": {
+   "file": "logos/Nickelodeon.uk.png",
+   "source": "https://i.imgur.com/E84jnP8.png",
+   "bytes": 9612
+  },
+  "News12PlusNewJersey.us": {
+   "file": "logos/News12PlusNewJersey.us.jpg",
+   "source": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
+   "bytes": 39262
+  },
+  "NanaksarLive.in": {
+   "file": "logos/NanaksarLive.in.png",
+   "source": "https://papaji.freetvindia.com/media/Nanasar_live.png",
+   "bytes": 68649
+  },
+  "NuestraImagenTV.gt": {
+   "file": "logos/NuestraImagenTV.gt.jpg",
+   "source": "https://i.imgur.com/sknLXZI.jpeg",
+   "bytes": 23181
+  },
+  "PTVSports.pk": {
+   "file": "logos/PTVSports.pk.png",
+   "source": "https://i.imgur.com/CPm6GHA.png",
+   "bytes": 117805
+  },
+  "Pogo.in": {
+   "file": "logos/Pogo.in.png",
+   "source": "https://i.imgur.com/70pYQh4.png",
+   "bytes": 22463
+  },
+  "PolsatNewsPolityka.pl": {
+   "file": "logos/PolsatNewsPolityka.pl.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png",
+   "bytes": 55239
+  },
+  "PadharoSA.in": {
+   "file": "logos/PadharoSA.in.png",
+   "source": "https://papaji.freetvindia.com/media/padharosa.png",
+   "bytes": 30609
+  },
+  "Pankh.in": {
+   "file": "logos/Pankh.in.png",
+   "source": "https://papaji.freetvindia.com/media/pankh.png",
+   "bytes": 44027
+  },
+  "PunjabiMusicHD.in": {
+   "file": "logos/PunjabiMusicHD.in.png",
+   "source": "https://papaji.freetvindia.com/media/Punjabi_Music_HD.png",
+   "bytes": 38326
+  },
+  "RBTV.py": {
+   "file": "logos/RBTV.py.png",
+   "source": "https://i.imgur.com/EMFAFX0.png",
+   "bytes": 43555
+  },
+  "RaajjeTV.mv": {
+   "file": "logos/RaajjeTV.mv.png",
+   "source": "https://i.imgur.com/QxdkiCZ.png",
+   "bytes": 7045
+  },
+  "RadioMegaTVAmazonia.bo": {
+   "file": "logos/RadioMegaTVAmazonia.bo.png",
+   "source": "https://i.imgur.com/yzSNWZ3.png",
+   "bytes": 67877
+  },
+  "Rai4.it": {
+   "file": "logos/Rai4.it.png",
+   "source": "https://i.imgur.com/sEY21rg.png",
+   "bytes": 26767
+  },
+  "Ragni.in": {
+   "file": "logos/Ragni.in.png",
+   "source": "https://papaji.freetvindia.com/media/Ragni.png",
+   "bytes": 30122
+  },
+  "RupashiBanglaTV.bd": {
+   "file": "logos/RupashiBanglaTV.bd.png",
+   "source": "https://i.imgur.com/9idHs20.png",
+   "bytes": 50225
+  },
+  "SBTCuiaba.br": {
+   "file": "logos/SBTCuiaba.br.png",
+   "source": "https://i.imgur.com/EZJWQ3i.png",
+   "bytes": 18860
+  },
+  "SCTV14.vn": {
+   "file": "logos/SCTV14.vn.png",
+   "source": "https://i.imgur.com/rIqmRNK.png",
+   "bytes": 47461
+  },
+  "PunjabiTV.in": {
+   "file": "logos/PunjabiTV.in.png",
+   "source": "https://papaji.freetvindia.com/media/PunjabiTV.png",
+   "bytes": 19629
+  },
+  "SampitTV.id": {
+   "file": "logos/SampitTV.id.png",
+   "source": "https://i.imgur.com/8cFJa8G.png",
+   "bytes": 70127
+  },
+  "SangajiTV.id": {
+   "file": "logos/SangajiTV.id.png",
+   "source": "https://i.imgur.com/4rTNT8F.png",
+   "bytes": 36106
+  },
+  "Saang.in": {
+   "file": "logos/Saang.in.png",
+   "source": "https://papaji.freetvindia.com/media/Saang_TV.png",
+   "bytes": 30400
+  },
+  "ShreeHazurSahibji.in": {
+   "file": "logos/ShreeHazurSahibji.in.png",
+   "source": "https://papaji.freetvindia.com/media/Shree_Hazursahibji.png",
+   "bytes": 39582
+  },
+  "SkyNewsUrdu.pk": {
+   "file": "logos/SkyNewsUrdu.pk.png",
+   "source": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+   "bytes": 7552
+  },
+  "SindhTV.in": {
+   "file": "logos/SindhTV.in.png",
+   "source": "https://papaji.freetvindia.com/media/Sindth_TV.png",
+   "bytes": 30462
+  },
+  "SoneriCinema.in": {
+   "file": "logos/SoneriCinema.in.png",
+   "source": "https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png",
+   "bytes": 50692
+  },
+  "T7.xk": {
+   "file": "logos/T7.xk.png",
+   "source": "https://i.imgur.com/b7FvSJj.png",
+   "bytes": 504
+  },
+  "TBSTV.jp": {
+   "file": "logos/TBSTV.jp.png",
+   "source": "https://i.imgur.com/dUn2GRn.png",
+   "bytes": 10573
+  },
+  "TMF.nl": {
+   "file": "logos/TMF.nl.png",
+   "source": "https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png",
+   "bytes": 22216
+  },
+  "TVSurCanal9.cr": {
+   "file": "logos/TVSurCanal9.cr.png",
+   "source": "https://i.imgur.com/7HbISMV.png",
+   "bytes": 47138
+  },
+  "TVCa.sv": {
+   "file": "logos/TVCa.sv.png",
+   "source": "https://i.imgur.com/uPWWtCA.png",
+   "bytes": 9525
+  },
+  "TVGracia.co": {
+   "file": "logos/TVGracia.co.png",
+   "source": "https://i.imgur.com/tMl4ISO.png",
+   "bytes": 7700
+  },
+  "TeenNick.pl": {
+   "file": "logos/TeenNick.pl.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png",
+   "bytes": 74374
+  },
+  "TeleDanli.hn": {
+   "file": "logos/TeleDanli.hn.png",
+   "source": "https://i.imgur.com/BACuUSc.png",
+   "bytes": 134124
+  },
+  "TelecineAction.br": {
+   "file": "logos/TelecineAction.br.png",
+   "source": "https://i.imgur.com/BHYWG0h.png",
+   "bytes": 25356
+  },
+  "TheQIndia.us": {
+   "file": "logos/TheQIndia.us.png",
+   "source": "https://i.imgur.com/VYrpCEN.png",
+   "bytes": 23404
+  },
+  "Tunes6.in": {
+   "file": "logos/Tunes6.in.png",
+   "source": "https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png",
+   "bytes": 55554
+  },
+  "VTVMor.hu": {
+   "file": "logos/VTVMor.hu.png",
+   "source": "https://i.imgur.com/x8jstsh.png",
+   "bytes": 80100
+  },
+  "WarnerChannel.us": {
+   "file": "logos/WarnerChannel.us.png",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
+   "bytes": 35302
+  },
+  "Yunavision.do": {
+   "file": "logos/Yunavision.do.png",
+   "source": "https://i.imgur.com/YjceEv5.png",
+   "bytes": 27584
+  },
+  "prozhizn.ru": {
+   "file": "logos/prozhizn.ru.png",
+   "source": "https://iptvx.one/picons/pro-zhizn.png",
+   "bytes": 17257
   }
  },
  "flags": {
@@ -38246,7 +38316,6 @@
   "VN": "🇻🇳",
   "HT": "🇭🇹",
   "GY": "🇬🇾",
-  "GM": "🇬🇲",
   "GH": "🇬🇭",
   "GP": "🇬🇵",
   "GT": "🇬🇹",
