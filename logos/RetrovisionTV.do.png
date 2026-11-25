@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      // Native-app flag: the RetroVisión TV iOS/Android shell appends
+      // "RetroVisionApp/1.0" to its WebView user agent. In the app the
+      // mobile/PWA layout is forced at ANY width (the desktop rules are
+      // scoped to html:not(.rv-app)) and the service worker stays off.
+      (function () {
+        try {
+          if (/RetroVisionApp/.test(navigator.userAgent) || window.Capacitor) {
+            document.documentElement.classList.add('rv-app');
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>RetroVisión TV10</title>
+    <meta name="description" content="RetroVisión TV10 — Música, noticias, cultura y entretenimiento para todos los latinos alrededor del mundo. En vivo cada día." />
+    <meta name="theme-color" content="#120F2D" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="RetroVisión" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,700;1,800;1,900&display=swap" rel="stylesheet" />
+    <script type="module" crossorigin src="/assets/index-Bih6CBdL.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Q1pZDWig.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
